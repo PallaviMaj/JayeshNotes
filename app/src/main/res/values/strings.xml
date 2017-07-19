@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Hourly Notes</string>
+    <string name="show_list">Show My Notes</string>
+    <string name="timesheet_title">Timesheets</string>
+    <string name="fill_timesheet">Fill up timesheets</string>
+
+    <string name="action_settings">Settings</string>
+</resources>
